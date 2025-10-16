@@ -1,17 +1,19 @@
-<h6 align="left">Hi!</h6>
-<h6 align="left">I'm ADIII.<br>1 year undergrad at the Indian Institute of Technology, Delhi.</h6>
-<h6 align="left">Mathematics and Computing</h6>
+>Hi, I'm ADIII
+> 
+> 
+> Mathematics and Computing.\
+> Indian Institute of Technology, Delhi.
 
-###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lsb2nnuaztvfbobptb5l2gew7y&width={width})
-###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADIII-Archives&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+<div style="padding-left: 100px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADIII-Archives&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
 
-###
+<div style="padding-left: 100px;">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lsb2nnuaztvfbobptb5l2gew7y&width=300" alt="Recently Played on Spotify"/>
+</div>
 
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo"  />
