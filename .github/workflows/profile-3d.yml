@@ -20,8 +20,12 @@ jobs:
       - name: Generate 3D Contribution Profile
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}  
-          USERNAME: ${{ github.repository_owner  }}
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          # Optional: Uncomment below to use a custom style
+          # SETTING_JSON: settings/my-style.json
+          # MAX_REPOS: 150
+          # YEAR: 2024
 
       - name: Commit & Push
         run: |
