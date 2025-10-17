@@ -20,7 +20,7 @@ jobs:
       - name: Generate 3D Contribution Profile
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}  # Make sure this matches your secret name
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}  
           USERNAME: ${{ github.repository_owner }}
 
       - name: Commit & Push
