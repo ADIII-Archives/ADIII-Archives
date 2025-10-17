@@ -82,6 +82,7 @@
 
 <br clear="both">
 
+![My 3D Profile](profile-3d-contrib/profile-green-animate.svg)
 
 
 ###
