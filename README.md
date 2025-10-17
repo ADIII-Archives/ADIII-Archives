@@ -82,7 +82,7 @@
 
 <br clear="both">
 
-profile-3d-contrib/profile-night-rainbow.sv
+![My 3D Profile](profile-3d-contrib/placeholder.svg)
 
 
 ###
