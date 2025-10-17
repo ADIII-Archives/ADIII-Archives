@@ -1,9 +1,0 @@
-{
-  "color": "green",
-  "animation": true,
-  "theme": "season"
-}
-env:
-  GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
-  USERNAME: ${{ github.repository_owner }}
-  SETTING_JSON: settings/my-style.json
